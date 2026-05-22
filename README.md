@@ -10,9 +10,7 @@ It supports DeepL and multi‑threaded Google Translate, automatically detects s
 Recommended for most users.
 
 Creates Start Menu shortcut
-
 Creates Desktop shortcut
-
 Uses custom icon
 
 Automatically launches after installation
@@ -24,11 +22,9 @@ https://github.com/user-attachments/files/28126416/SubtitleTranslatorV12_EN_Port
 No installation required.
 
 Download the ZIP
-
 Extract it
 
 Double‑click the shortcut
-
 Done
 
 👉 Download:  
@@ -39,35 +35,24 @@ https://github.com/UtCollector/SubtitleTranslator-V12/releases/download/V12.01/S
 The app analyzes a sample of subtitle lines and displays:
 
 Detected language code (e.g., en)
-
 Full language name (e.g., English)
 
 Works for:
-
 SRT
-
 VTT
-
 ASS
-
 SSA
 
 🧠 Automatic Subtitle Type Detection
 The app automatically recognizes:
-
 .srt → SRT
-
 .vtt → VTT
-
 .ass → ASS
-
 .ssa → SSA
 
 ⚡ Multi‑Threaded Google Translate
 Up to 10× faster than DeepL
-
 No API key required
-
 Ideal for large subtitle files
 
 Parallel translation using ThreadPoolExecutor
@@ -76,12 +61,10 @@ Parallel translation using ThreadPoolExecutor
 Uses your own DeepL API key
 
 High‑quality translations
-
 Full error handling
 
 🎨 ASS/SSA Support
 Only the text is translated
-
 Styles, formatting, and timing remain intact
 
 ⏱ ETA (Estimated Time Remaining)
@@ -93,30 +76,16 @@ Google: 120/800 — ETA 01:42
 Interrupt translation at any time
 
 Threads stop safely
-
 No corrupted output files
 
 🖥 Modern GUI
 Progress bar
-
 Status updates
-
 Detected language display
-
-Stop button
+top button
 
 DeepL key storage
-
 File picker dialog
-
-📁 Supported Formats
-.srt
-
-.vtt
-
-.ass
-
-.ssa
 
 🚀 How to Use
 Portable Version
@@ -134,15 +103,12 @@ Installer Version
 Download the .exe installer
 
 Run it
-
 Launch the app via Desktop shortcut or Start Menu
 
 📦 Installation
 🛠 Requirements
 Windows 10 or 11
-
 Python 3.10+ (only required for the portable version)
-
 Internet connection for Google Translate / DeepL
 
 Running the app manually (portable)
@@ -150,19 +116,14 @@ Code
 python SubtitleTranslatorV12_EN.py
 🔧 DeepL API Key
 If you want to use DeepL:
-
 Visit https://www.deepl.com
-
 Create an API key
-
 Enter it in the GUI
-
 Click Save API key
 
 Google Translate works without a key.
 
 📁 Project Structure
-Code
 /
 ├── SubtitleTranslatorV12_EN.py
 ├── Start-SubtitleTranslatorV12_EN.bat
@@ -174,6 +135,8 @@ Code
 ├── LICENSE
 └── screenshots/
     └── main-window.png
+
+    
 📝 License
 This project is licensed under the MIT License.
 See LICENSE for details.
