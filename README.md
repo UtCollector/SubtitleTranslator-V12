@@ -136,6 +136,7 @@ Google Translate works without a key.
 └── screenshots/
     └── main-window.png
 
+
     
 📝 License
 This project is licensed under the MIT License.
