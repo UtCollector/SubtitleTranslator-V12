@@ -32,7 +32,7 @@ Double‑click the shortcut
 Done
 
 👉 Download:  
-https://github.com/UtCollector/SubtitleTranslator-V12/releases/latest
+https://github.com/UtCollector/SubtitleTranslator-V12/releases/download/V12.01/SubtitleTranslatorV12_EN_Installer.exe
 
 ✨ Key Features
 🔍 Automatic Language Detection (NEW in V12)
