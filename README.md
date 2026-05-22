@@ -124,6 +124,7 @@ Click Save API key
 Google Translate works without a key.
 
 📁 Project Structure
+code
 /
 ├── SubtitleTranslatorV12_EN.py
 ├── Start-SubtitleTranslatorV12_EN.bat
